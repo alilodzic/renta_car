@@ -1,0 +1,17 @@
+.cntct span {
+  color: #fff;
+  border-radius: 50%;
+  background-color: var(--orange);
+  width: 45px;
+  height: 45px;
+  display: inline-flex;
+  font-size: 25px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.cntct {
+    margin-top: 10rem !important;
+}
